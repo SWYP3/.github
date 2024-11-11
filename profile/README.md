@@ -1,6 +1,6 @@
 ## 투스데이프로젝트 👋
 
-- 스위프 5기 Project -
+- 스위프 5기 Project 
   
 [ToothDay 사용해보기](https://toothday.swygbro.com/)
 
