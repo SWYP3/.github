@@ -1,11 +1,15 @@
-## SWYP 3 TEAM 👋
+## 투스데이프로젝트 👋
 
+- 스위프 5기 Project -
+  
 [ToothDay 사용해보기](https://toothday.swygbro.com/)
 
 ### 투스데이(ToothDay)
 
 내 손 안의 치아 건강 관리 서비스
 진료 기록으로 치아 건강 관리하기
+
+
 
 
 ### 👥 팀원 구성
