@@ -1,5 +1,6 @@
 ## SWYP 3 TEAM 👋
 
+[ToothDay 사용해보기](https://toothday.swygbro.com/)
 
 ### 투스데이(ToothDay)
 
